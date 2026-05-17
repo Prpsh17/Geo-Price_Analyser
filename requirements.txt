@@ -1,0 +1,21 @@
+# === Geo-Price Analyzer Dependencies ===
+
+# Data Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+joblib>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Dashboard
+streamlit>=1.30.0
+
+# Jupyter Notebook (opsional, untuk eksplorasi)
+jupyter>=1.0.0
